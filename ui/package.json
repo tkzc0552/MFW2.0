@@ -76,7 +76,7 @@
     },
     "devDependencies": {
         "http-proxy-middleware": "^0.18.0",
-        "webpack-bundle-analyzer": "^2.11.1",
+        "webpack-bundle-analyzer": "^3.6.0",
         "webpack-dev-middleware": "^2.0.6",
         "webpack-hot-middleware": "^2.21.2"
     },
