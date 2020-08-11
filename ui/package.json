@@ -55,7 +55,7 @@
         "shelljs": "^0.8.1",
         "sync-request": "^6.0.0",
         "then-request": "^6.0.0",
-        "tinymce": "^5.0.14",
+        "tinymce": "^5.4.0",
         "url-loader": "^1.0.1",
         "vue": "^2.5.16",
         "vue-axios": "^2.0.2",
