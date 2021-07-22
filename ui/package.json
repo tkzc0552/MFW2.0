@@ -72,7 +72,7 @@
         "vuex": "^3.0.1",
         "webpack": "^3.11.0",
         "webpack-merge": "^4.1.2",
-        "xlsx": "^0.12.5"
+        "xlsx": "^0.17.0"
     },
     "devDependencies": {
         "http-proxy-middleware": "^0.18.0",
